@@ -230,4 +230,6 @@ cython_debug/
 .history
 .ionide
 
+# Makefile
+Makefile
 # End of https://www.toptal.com/developers/gitignore/api/django,visualstudiocode,python
